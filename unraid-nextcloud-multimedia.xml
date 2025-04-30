@@ -9,7 +9,7 @@
   <Privileged>false</Privileged>
   <Support>https://forums.unraid.net/topic/136213-support-terratrax-nextcloud-multimedia/</Support>
   <Project>https://nextcloud.com/</Project>
-  <Overview>This is the latest Nextcloud-30.0.5-apache image with additional packages and plugins installed to support videos and facial recognition:&#xD;
+  <Overview>This is the latest Nextcloud-31.0.4-apache image with additional packages and plugins installed to support videos and facial recognition:&#xD;
  - ffmpeg (install from apt repository)&#xD;
  - pdlib (built from source)&#xD;
  - bzip (built from source)&#xD;
